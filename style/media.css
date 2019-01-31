@@ -1,0 +1,2933 @@
+@media (max-width: 1680px) {
+    .timer p {
+        width: 46px;
+    }
+    .prod_content .timer{
+        width: 170px;
+    }
+    .sl_img3,.sl_img2,.sl_img1{
+        right:26%;
+    }
+
+}
+@media (max-width: 1600px) {
+
+    .acound {
+        right: 34%;
+        top: 35%;
+    }
+}
+    @media (max-width: 1525px) {
+    .cab p {
+        font-size: 17px;
+    }
+
+    .cab span {
+        margin: 0 9px;
+    }
+
+    .menu_hover {
+        width: 100%;
+    }
+
+    .search {
+        top: 34%;
+    }
+    .korzina{
+        top: 35%;
+    }
+     .carousel {
+         height: 860px;
+     }
+     .sl_img2 {
+         width: 340px;
+         right:37%;
+     }
+
+     .sl_text3 .sl-caption h2 {
+         font-size: 40px;
+     }
+     .content .container1{
+         width: 78%;
+     }
+     .subscription input {
+         width: 425px;
+     }
+     .subscription button {
+         padding: 41px 8%;
+     }
+     .subscription form {
+         width: 700px;
+     }
+
+    .price_now p:last-of-type {
+        padding: 7px 19px 7px 15%;
+    }
+    .sl_img3  {
+        right: 37%;
+        width: 23%;
+    }
+   .sl_img1 {
+        right: 37%;
+        width: 26%;
+    }
+
+}
+@media (max-width: 1440px) {
+    footer .container1{
+        width: 79%;
+    }
+    .bg_img2{
+        left: 33%;
+    }
+    .prod_content form {
+        margin: 15px 0 20px;
+    }
+    .timer p {
+        width: 37px;
+        font-size: 10px;
+    }
+    .calendar {
+        font-size: 12px;
+    }
+    .sl_img3  {
+        right: 40%;
+        width: 19%;
+        top: 0;
+    }
+    .credit p {
+        width: 98%;
+
+    }
+    .header1 .container1{
+        width: 80%;
+    }
+    .group p {
+        font-size: 13px;
+        padding: 14px 0 15px;
+    }
+    .group{
+        height: 49px;
+    }
+    .group input{
+        padding: 14px;
+    }
+}
+@media (max-width: 1377px) {
+    .container1 {
+        width: 76%;
+    }
+    .prod_desc h1 {
+        width: 137%;
+    }
+    .search {
+        right: 13%;
+        top:270px;
+    }
+    .acound {
+        right: 28%;
+    }
+    .description ul li,
+    .description ul li>p:first-of-type{
+        height: 74px;
+    }
+    .i_info{
+        right: 10%;
+        width: 180px;
+    }
+    .i_info p:empty{
+        position: static;
+        margin-right: -26px;
+        float: right;
+        transform: rotate(138deg);
+    }
+
+}
+@media (max-width: 1280px) {
+
+    .prod_head h2{
+        font-size: 17px;
+    }
+    .sl_img3 {
+        right: 46%;
+        width: 17%;
+        top: 3%;
+    }
+    .sl_img2 {
+        width: 275px;
+        right: 46%;
+        top: -18%;
+    }
+    .sl_img1 {
+        right: 46%;
+        width: 23%;
+    }
+    .sl_text {
+        left: 20%;
+    }
+    .credit label {
+        font-size: 23px;
+        margin-left: 4%;
+    }
+    .row_head p {
+        font-size: 1.2vw;
+    }
+}
+@media (max-width: 1265px) {
+    .prod_content form input {
+        padding: 10px 20px;
+        font-size: 13px;
+    }
+    .prod_content form button {
+        font-size: 13px;
+        padding: 12px 10px;
+    }
+    .share span {
+        font-size: 12px;
+        margin-right: 3px;
+    }
+    .share a {
+        font-size: 11px;
+    }
+    .alert .cart_img {
+        padding: 9px 12px;
+    }
+    .alert .prime {
+        font-size: 13px;
+    }
+}
+@media (max-width: 1200px) {
+    .menu_hover.moda_hover .pr_img {
+        width: 96px;
+    }
+
+    .moda4 {
+        padding: 0;
+    }
+
+    .carousel {
+        height: 750px;
+    }
+
+    .sl_text {
+        left: 90px;
+        top: 438px;
+    }
+    .sl-caption {
+        padding-bottom: 17px;
+        margin-bottom: 20px;
+    }
+
+    .carousel {
+        height: 580px;
+    }
+
+    .obit {
+        top: -94px;
+    }
+
+    .arrow {
+        font-size: 32px;
+        padding: 7px 14px;
+    }
+    .sl_img1{
+        top: -7%;
+        right: 48%;
+    }
+    .sl_img3{
+        top: -13%;
+        right: 51%;
+    }
+    .sl_img2 {
+        width: 240px;
+        right: 49%;
+        top: -30%;
+    }
+    .obit {
+        width: 84.3%;
+    }
+
+    .product {
+        padding-top: 177px;
+    }
+    .product h1 {
+        font-size: 9vw;
+    }
+    .btngroup {
+        width: 740px;
+        height: 62px;
+    }
+    .btngroup p {
+        font-size: 18px;
+    }
+    .prod_img {
+        width: 25%;
+        margin: 20px auto;
+    }
+    .prod_logo img{
+        width:100%;
+    }
+    .prod {
+        padding: 26px 0 54px;
+        margin-bottom: 33px;
+    }
+    .prod .price div {
+        font-size: 14px;
+    }
+    .prod_head h2 {
+        font-size: 14px;
+    }
+    .subscription h1 {
+        font-size: 24px;
+        margin-bottom: 31px;
+    }
+    .subscription {
+        padding: 22px 0 38px;
+        margin-top: 86px;
+    }
+    .subscription button {
+        padding: 22px 4%;
+        font-size: 22px;
+    }
+    .subscription form {
+        width: 80%;
+    }
+    .subscription input {
+        font-size: 18px;
+        width: 61%;
+        padding: 24px 4% 20px;
+    }
+    .footer_bg h3 {
+        font-size: 24px;
+        margin-bottom: 30px;
+    }
+    .footer_bg li {
+        margin-bottom: 12px;
+    }
+    .footer_bg a {
+         font-size: 18px;
+         color: #ffffff;
+     }
+    .soc p{
+        padding: 6px 14px;
+    }
+    .soc p:last-of-type{
+        padding: 6px 10px;
+    }
+    .copy p {
+        font-size: 18px;
+    }
+    .elek, .moda {
+        width: 793px;
+    }
+    .menu_hover ul li a {
+        font-size: 14px;
+    }
+    .menu_hover ul li {
+        margin-bottom: 13px;
+    }
+    .hov_prod p {
+        font-size: 12px;
+        margin-top: 10%;
+    }
+    .prod_content ul li {
+        font-size: 15px;
+        margin-bottom: 11px;
+    }
+    .description ul li,
+   .description ul li>p:first-of-type {
+        height: 56px;
+        margin-bottom: 0;
+    }
+    .sistem {
+        width: 66%;
+        margin-top: 91px;
+    }
+    .pox_prod1>div {
+        width: 114px;
+        height: 135px;
+        padding: 20px 24px;
+    }
+    .prod_content .card {
+        margin-bottom: 86px;
+    }
+   #sortable li{
+       padding: 5px;
+       margin-bottom: 4%;
+   }
+    .elek_content .prod {
+        margin-bottom: 0;
+    }
+    #map,.map{
+        height: 450px;
+    }
+    .acount h1 {
+        font-size: 56px;
+        margin-bottom: 65px;
+    }
+    .cart_content .container1 {
+        width: 74%;
+    }
+    .log4 a {
+        width: 46.5%;
+    }
+    .us_name p {
+        font-size: 17px;
+    }
+    .per_sec h3 {
+        font-size: 22px;
+    }
+
+    .per_sec h1 {
+        font-size: 2.2vw;
+    }
+    .per_sec .redakt {
+        font-size: 13px;
+    }
+    .save_row {
+        height: 65px;
+    }
+    .save_row h4{
+        margin: 0;
+    }
+    .save_row .col1 p,
+    .save_row .col3 p {
+        margin-top: 9%;
+    }
+    .pr_img6 {
+        margin-top: -3px;
+    }
+    .my_header h1 {
+        font-size: 3.3vw;
+    }
+    .cont_inform input {
+        width: 105%;
+    }
+    .row_head p {
+        font-size: 1.3vw;
+    }
+}
+@media (max-width: 1180px) {
+    .menu>ul>li a {
+        font-size: 22px;
+    }
+    .menu>ul {
+
+        padding: 53px 0;
+    }
+    .logo {
+        margin: 65px auto 0;
+    }
+    .cab {
+        margin-top: 67px;
+        padding-bottom: 35px;
+    }
+    .cab p {
+        font-size: 15px;
+    }
+
+    .korzina {
+        top: 30%;
+    }
+    .acound {
+        top: 31%;
+    }
+    .sl_text.sl_text3 {
+        width: 72%;
+    }
+    .menu_hover ul li a {
+        font-size: 14px;
+    }
+    .price_now p {
+        font-size: 13px;
+    }
+    .prod_content form button {
+        font-size: 12px;
+    }
+    .price_now p:last-of-type {
+        padding: 7px 11px 7px 9%;
+    }
+    .price_now p:last-of-type {
+        padding: 7px 7px 7px 6%;
+        font-size: 12px;
+    }
+    .prod_content .timer {
+        width: 141px;
+    }
+    .prod_content ul li {
+        margin-bottom: 2px;
+    }
+    .price_now {
+        margin-top: 3%;
+    }
+    .prod_content form {
+        margin: 5px 0 9px;
+    }
+    .pr_slider ul {
+        padding-top: 3.7%;
+    }
+    .description ul li{
+        margin-bottom: 0;
+    }
+    .cab p, .cab p a {
+        font-size: 15px;
+    }
+    .cab_rigth {
+        width: 398px;
+    }
+    .cab .user_name {
+        font-size: 15px;
+    }
+}
+
+
+@media (max-width: 1130px) {
+    .col1 {
+        width: 15%;
+    }
+    .col2 {
+        width: 60%;
+    }
+    .my_header h2 {
+        font-size: 25px;
+
+    }
+    .row_mail {
+        font-size: 12px;
+        padding: 28px 0 32px;
+    }
+    .del_mes{
+        width: 14px;
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 1105px) {
+    .menu ul li a {
+        font-size: 20px;
+    }
+    .menu ul li span {
+        margin: 0 20px;
+    }
+    .sl-caption h2 {
+        font-size: 36px;
+    }
+    .menu_hover ul li a {
+        font-size: 14px;
+    }
+    .menu404 ul li a {
+        font-size: 18px;
+    }
+    .menu404 ul,.container2{
+        width: 700px;
+    }
+    .container2{
+        width: 70%;
+    }
+
+}
+
+@media (max-width: 1090px) {
+    .cab span {
+        margin: 0 7px;
+    }
+    .cab p {
+         font-size: 13px;
+     }
+    .user img {
+        width: 11px;
+        margin-right: 4px;
+    }
+    .acound {
+        top: 29%;
+    }
+    .sl_text{
+        left: 0;
+    }
+    .footer_bg h3 {
+        font-size: 2.2vw;
+        margin-bottom: 15px;
+    }
+    .footer_bg a {
+        font-size: 16px;
+    }
+    .copy .container1{
+        width:97%;
+    }
+    .description>h1 {
+        font-size: 10vw;
+    }
+    .prod_desc h1 {
+        font-size: 2.5vw;
+    }
+    .prod_desc>p {
+        font-size: 21px;
+    }
+    .sidebar a,
+    .sidebar label,
+    .sidebar p {
+        font-size: 14px;
+    }
+    .pers_cont h2 ,
+    .my_info h1{
+        font-size: 21px;
+    }
+    .pers_cont li {
+        font-size: 14px;
+        margin-top: 12px;
+    }
+    .per_sec h3 {
+         font-size: 19px;
+     }
+    group
+}
+@media (max-width: 1050px) {
+    .sl_img1  {
+        right: 52%;
+    }
+    .sl_img3 ,.sl_img2{
+        right: 54%;
+    }
+    .my_ord h3 {
+        font-size: 32px;
+    }
+}
+@media (max-width: 1010px) {
+    .calendar{
+        float: left;
+    }
+    .prod_content .timer {
+        margin-top: -16px;
+    }
+
+}
+@media (max-width: 990px) {
+    .menu_hover {
+        padding: 23px 0 25px 16px;
+    }
+
+    .carousel {
+        height: 486px;
+    }
+
+    .obit {
+        top: -115px;
+    }
+
+    .sl-caption h2 {
+        font-size: 27px;
+    }
+
+    .sl_img2 {
+        width: 213px;
+    }
+
+    .sl_text3 .sl-caption h2 {
+        font-size: 28px;
+    }
+
+    .sl_text {
+        top: 363px;
+    }
+
+    .sl_img1 {
+        right: 55%;
+        top: -187px;
+    }
+
+    .sl_img3 {
+        top: -200px;
+    }
+
+    .sl_img2 {
+        right: 58%;
+        top: -340px;
+    }
+
+    .product {
+        padding-top: 239px;
+    }
+
+    footer {
+        margin-top: -105px;
+    }
+
+    .footer_bg {
+        padding-top: 164px;
+    }
+
+    .pox_prod h1 {
+        font-size: 78px;
+    }
+
+    .pox_prod p {
+        font-size: 31px;
+        margin: -50px 0 0 5px;
+    }
+
+    .reg1 p {
+        margin: 12px 0 6px 16px;
+    }
+
+    .reg form input {
+        padding: 2px 16px;
+    }
+
+    .reg1 {
+        font-size: 16px;
+    }
+
+    .address h3 {
+        font-size: 18px;
+        margin-bottom: 14px;
+    }
+
+    .address p {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+    .soc.soc2 {
+        padding-bottom: 16px;
+    }
+
+    .reg form textarea {
+        height: 110px;
+    }
+
+    .reg form button {
+        padding: 13px 7%;
+        margin: 25px 0 0 17px;
+        font-size: 12px;
+    }
+
+    .reg {
+        padding-bottom: 41px;
+    }
+
+    .contact_as h1 {
+        font-size: 35px;
+        margin: 44px 0 39px;
+    }
+
+    #map, .map {
+        height: 343px;
+    }
+
+    .acount_content h2 {
+        margin-bottom: 30px;
+    }
+
+    .acount_content label {
+        font-size: 17px;
+        margin: 14px 0 14px 21px;
+    }
+
+    .acount_content input {
+        font-size: 14px;
+    }
+
+    .acount_content form {
+        width: 99.8%;
+        margin: 0 auto;
+    }
+
+    .acount h1 {
+        letter-spacing: 9px;
+    }
+
+    .cart_menu li {
+        font-size: 24px;
+        margin: 0 25px;
+    }
+
+    .ul_border span {
+        width: 140px;
+    }
+
+    .delivery label {
+        font-size: 21px;
+        margin: 14px;
+    }
+
+    .delivery input, .delivery select {
+        font-size: 16px;
+        padding: 10px 19px;
+    }
+
+    .delivery select {
+        background-size: 14px;
+        background-position: 95% 17px;
+    }
+
+    .order {
+        font-size: 14px;
+        padding: 17px 4%;
+        margin-top: 62px;
+    }
+
+    .back1 {
+        margin-top: 81px;
+    }
+
+    .c_menu {
+        font-size: 19px;
+    }
+
+    .prod_tit {
+        margin-left: 7%;
+    }
+
+    .login_content h1 {
+        font-size: 31px;
+        margin: 42px 0;
+    }
+
+    .log {
+        padding: 6% 0 9% 5%;
+        height: 524px;
+    }
+
+    .log1 button {
+        font-size: 17px;
+        margin: 3px auto 32px;
+        padding: 7px 18%;
+    }
+
+    .log4 p {
+        font-size: 13px;
+        width: 91%;
+    }
+
+    .log4 a {
+        font-size: 14px;
+        width: 140px;
+        padding: 9px 0;
+        margin: 197px 10% 10%;
+    }
+
+    .log4 {
+        height: 525px;
+    }
+
+    .log1 a {
+        bottom: 99px;
+    }
+
+    .us_name p {
+        font-size: 15px;
+        letter-spacing: 0;
+    }
+
+    .user_img div {
+        width: 137px;
+        height: 137px;
+        border-width: 6px;
+    }
+
+    .user_img > div > p {
+        width: 125px;
+        height: 125px;
+    }
+
+    .pr_img6 {
+        margin-right: 3%;
+    }
+
+    .save_row h4 {
+        font-size: 12px;
+    }
+    .save_row p {
+        font-size: 14px;
+    }
+    .my_header h2 {
+        font-size: 21px;
+    }
+    .my_header {
+        height: 257px;
+    }
+    .my_header h1 {
+        margin-top: 106px;
+    }
+    .user_img {
+        margin-top: 36px;
+    }
+    .my_info input[type="text"] {
+        padding: 16px 26px;
+    }
+    .my_avatar {
+        width: 110px;
+        height: 110px;
+        border: 5px solid #35276d;
+    }
+    .my_avatar p {
+        width: 100px;
+        height: 100px;
+        border: 3px solid #fff;
+    }
+    .pers_cont .change_img {
+        margin: 35px 0 0 17px;
+        font-size: 20px;
+    }
+    .my_info form p {
+        font-size: 20px;
+        margin: 23px 17px 13px;
+    }
+    .my_info form button {
+        font-size: 20px;
+        padding: 11px 34px;
+        margin-top: 29px;
+    }
+    .change_pass {
+        margin-top: 29px;
+    }
+    .my_info form label {
+        font-size: 18px;
+        margin-left: 0;
+    }
+    .checkbox label:after {
+        height: 24px;
+        width: 24px;
+        border-width: 5px;
+    }
+    .checkbox input[type=checkbox]:checked + label:after {
+        width:24px;
+        height:24px;
+    }
+    .pass_change input {
+        margin-top: 34px;
+    }
+    #sortable li{
+        margin-bottom: 8%;
+         }
+    .login label {
+        font-size: 22px;
+        margin-left: 7%;
+    }
+    .login input {
+        font-size: 16px;
+        padding: 13px;
+        width: 100%;
+        margin: 14px auto;
+    }
+    .content404 h1 {
+        font-size: 2.3vw;
+        width: 40%;
+    }
+    .cart_img {
+        width: 57px;
+        padding: 10px 13px;
+    }
+    .view .prod_tit h5 {
+        font-size: 15px;
+        margin: 0;
+    }
+    .postuplenie1 .cart_menu li {
+        font-size: 13px;
+    }
+    .group{
+        margin-top: 30px;
+    }
+}
+@media (max-width: 950px) {
+
+    .cab>div{
+        clear: both;
+        float: right;
+    }
+    .cab>div:last-of-type{
+        width:375px;
+    }
+    .cab>div:first-of-type{
+        width:310px;
+    }
+    .menu ul li a {
+        font-size: 18px;
+    }
+    .menu>ul {
+        padding: 37px 0;
+    }
+    .menu ul li span {
+        margin: 0 13px;
+    }
+    .btngroup {
+        width: 606px;
+        height: 50px;
+    }
+    .btngroup p {
+        font-size: 15px;
+        padding: 12px 0 22px;
+    }
+    .menu_hover ul li a {
+        font-size: 13px;
+    }
+    .hov_prod p {
+        font-size: 11px;
+        margin-top: 6%;
+    }
+    .menu_hover ul li {
+        margin-bottom: 0;
+    }
+    .elek, .moda {
+        width: 613px;
+        padding-top: 33px;
+    }
+    .menu_hover h3 {
+        font-size: 17px;
+        margin-bottom: 23px;
+    }
+    .menu_hover {
+        padding: 6px 0 27px 8px;
+    }
+    .description ul li>p:last-of-type {
+        padding-left: 50px;
+    }
+    .cab_rigth {
+        width: 337px;
+    }
+    .credit {
+        padding: 52px 0 42px;
+    }
+    .pers_cont h2 {
+        font-size: 17px;
+    }
+    .empt1 {
+        margin: 22px 0;
+    }
+    .header1 .acoun {
+        margin-left: -18%;
+    }
+    .per_sec h3 {
+        font-size: 16px;
+    }
+    .redakt span {
+        margin-right: 1%;
+    }
+    .infor .redakt {
+        top: 69px;
+    }
+    .my_ord h3 {
+        font-size: 29px;
+    }
+    .my_ord p {
+        font-size: 18px;
+    }
+    .row_head p {
+        font-size: 1.5vw;
+    }
+    .pers_cont .col-sm-8 {
+        padding-left: 0;
+    }
+    ord_bor1 {
+        width: 105%;
+    }
+}
+@media (max-width:1000px) and (min-width:767px) {
+    .share{
+        width:100%;
+    }
+    .share p {
+        width: 45%;
+    }
+    .prod_content form input,
+    .prod_content form button {
+        font-size: 11px;
+        padding: 8px 0;
+    }
+    .prod_desc h1 {
+        margin: 0;
+    }
+    .prod_content ul li,
+    .prod_content ul li span {
+        font-size: 13px;
+    }
+    .i>span {
+        font-size: 14px;
+    }
+    .price_now p:first-of-type {
+        margin-top: 0;
+    }
+    .price_now p:last-of-type {
+        padding: 3px 3px 3px 3%;
+        font-size: 9px;
+    }
+}
+@media (max-width: 910px){
+    .sl_img1 {
+        width: 17%;
+        right: 61%;
+        top: -140px;
+    }
+    .sl_img2 {
+        width: 9%;
+        right: 65%;
+        top: -275px;
+    }
+    .sl_img3 {
+        width: 14%;
+        right: 60%;
+    }
+    .ord_bor1 {
+        margin-top: 66px;
+        padding-bottom: 95px;
+    }
+}
+@media (max-width: 880px){
+    .obit h1 {
+        font-size: 35px;
+    }
+    .obit h2 {
+        font-size: 19px;
+        margin: 25px 0;
+    }
+    .obit p {
+        font-size: 13px;
+        width: 95%;
+    }
+    .obit{
+        padding: 50px 0 41px;
+    }
+    .product {
+        padding-top: 68px;
+    }
+    .subscription h1{
+        font-size: 2.5vw;
+    }
+    .price_now p:last-of-type{
+        float: left;
+    }
+    .sidebar a,
+    .sidebar label,
+    .sidebar p {
+        font-size: 12px;
+    }
+    .sl1_ul li {
+        margin-bottom: 5px;
+    }
+    .ul_hide {
+        max-height: 345px;
+    }
+    .acount h1 {
+        font-size: 6vw;
+        margin-bottom: 10%;
+    }
+    .acount p a {
+        color: #cecada;
+        font-size: 2.7vw;
+    }
+    .acount_content h1 {
+        font-size: 42px;
+    }
+    .prod_row {
+        padding: 7px 0 7px 0;
+    }
+    .credit p {
+        font-size: 15px;
+        margin-top: 22px;
+    }
+}
+@media (max-width:850px) {
+    .footer_bg a {
+        font-size: 14px;
+    }
+    .description ul li>p {
+        font-size: 2vw;
+    }
+    .description ul li {
+        padding: 0 22px;
+    }
+    .sistem {
+        font-size:17px;
+        margin-top: 71px;
+        height: 53px;
+        width: 87%;
+    }
+    .sistem p:last-of-type,
+    .sistem p:first-of-type {
+        padding-top:14px;
+    }
+    .change {
+        width: 51px;
+        height: 29px;
+    }
+    .minus {
+        margin-left: 5px;
+    }
+    .change input {
+        font-size: 14px;
+        width: 18px;
+    }
+    .prime {
+        font-size: 14px;
+    }
+    .prime span {
+        font-size: 12px;
+    }
+    .change span {
+        margin-top: 7px;
+    }
+    .del_prod {
+        font-size: 12px;
+        width: 22px;
+        padding: 1px 0;
+    }
+    .radioo {
+        font-size: 17px;
+        padding: 6px;
+        width: 30px;
+        height: 30px;
+    }
+    .credit label {
+        font-size: 18px;
+    }
+    .save_row h4 {
+        font-size: 11px;
+    }
+    .save_row h5 {
+        font-size: 10px;
+    }
+    .save_row {
+        height: 50px;
+    }
+    .my_header h2 {
+        font-size: 18px;
+        margin-top: 10px;
+    }
+    .per_sec .redakt {
+        right: -29px;
+    }
+    .my_order .cart_img {
+        width: 50px;
+        margin-top: 10px;
+        padding: 12px 14px;
+    }
+    .menu404 ul{
+        width: 79%;
+    }
+    .menu404 ul li a{
+        font-size: 2.4vw;
+    }
+    .view .cart_img {
+        width: 50px;
+        padding: 5px 10px;
+    }
+    .view .prod_tit {
+        margin-left: 3%;
+    }
+}
+@media (max-width: 810px) {
+    .user_img div {
+        width: 100px;
+        height: 100px;
+    }
+    .user_img>div>p {
+        width: 88px;
+        height: 88px;
+        border-width: 3px;
+    }
+    .pers_cont h2 {
+        font-size: 15px;
+    }
+    .pers_cont li {
+        font-size: 13px;
+        margin-top: 9px;
+    }
+    .my_header h1 {
+        margin-top: 74px;
+    }
+    .my_header {
+        height: 192px;
+    }
+}
+@media (max-width: 790px) {
+    .menu ul li a {
+        font-size: 15px;
+    }
+    .menu ul {
+        padding: 30px 0;
+    }
+    .menu_hover h3 {
+        font-size: 16px;
+    }
+
+    .sl_img1 {
+        width: 15%;
+        right: 66%;
+        top: -188px;
+    }
+    .carousel {
+        height: 387px;
+    }
+    .arrow {
+        font-size: 19px;
+        padding: 5px 10px;
+    }
+    .sl-caption {
+        padding-bottom: 10px;
+        margin-bottom: 21px;
+    }
+    .sl_img2 {
+        width: 140px;
+        right: 70%;
+    }
+    .sl_img3 {
+        width:10%;
+        right:67%;
+    }
+    .menu_hover ul li a {
+        font-size: 13px;
+    }
+    .sl_text {
+        left: -28%;
+        margin-top: -5%;
+    }
+    .sl-caption h2 {
+        font-size: 20px;
+        margin-top: 0;
+    }
+    .sl_text a {
+        font-size: 11px;
+        width: 85px;
+    }
+    #date_ex{
+        width: 170px;
+    }
+}
+
+@media (max-width: 767px) {
+
+    .language {
+        font-size: 15px;
+    }
+
+    .logo {
+        width: 35%;
+    }
+
+    .hov_prod > div {
+        margin-bottom: 20px;
+    }
+
+    .hov_prod1 {
+        border: none;
+        margin-top: 0;
+        padding-top: 0;
+    }
+
+    .pr_img {
+        width: 14%;
+        padding: 3px 8px 4px;
+    }
+
+    .menu_hover > div:first-of-type {
+        width: 40%;
+    }
+
+    .bor_l {
+
+        width: 60%;
+    }
+
+    .menu_hover ul li {
+        margin-bottom: 4px;
+    }
+
+    .menu_hover ul li a {
+        font-size: 13px;
+    }
+
+    .hov_prod p {
+        font-size: 12px;
+        margin-top: 10px;
+    }
+
+    .acound {
+        top: 32%;
+
+        width: 135px;
+        padding: 14px 17px 16px;
+        right: 36%;
+    }
+
+    .sl_text3 .sl-caption h2 {
+        font-size: 3vw;
+    }
+
+    .sl_text.sl_text3 {
+        width: 68%;
+    }
+
+    .obit {
+        padding: 15px 0 38px;
+    }
+
+    .product > p a {
+        font-size: 5vw;
+    }
+
+    .product > p {
+        margin-bottom: 58px;
+    }
+
+    .btngroup {
+        width: 502px;
+        height: 38px;
+    }
+
+    .btngroup p {
+        font-size: 13px;
+        padding: 8px 0 22px;
+    }
+
+    .clear {
+        clear: both;
+    }
+
+    .prod_content form button {
+        font-size: 17px;
+    }
+
+    .price_now p:last-of-type {
+        padding: 7px 19px 7px 21%;
+        float: right;
+    }
+    .prod_desc h1 {
+        font-size: 5.3vw;
+        margin-top: 11%;
+        width:100%;
+    }
+    .prod_desc>p {
+        font-size: 4vw;
+    }
+    .sours {
+        font-size: 16px;
+    }
+    .pox_prod1>div {
+        width: 68px;
+        height: 84px;
+        padding: 10px 12px;
+        margin-right: 10px;
+    }
+    .pox_prod {
+        margin-bottom: 41px;
+    }
+    .prod_content .card {
+        margin-bottom: 35px;
+    }
+    .calendar{
+        float: right;
+    }
+    .prod_content .timer{
+        margin-top:10px;
+    }
+
+    .sidebar a,
+    .sidebar label,
+    .sidebar p {
+        font-size: 15px;
+    }
+
+    .sidebar{
+        padding: 33px 20px 1px;
+    }
+    .pr_slider .prod_desc{
+        padding-top:25px;
+        clear: both;
+    }
+    .reg1 p {
+        margin: 9px 0 2px 16px;
+        font-size: 14px;
+    }
+    .address h3 {
+        font-size: 16px;
+        margin-bottom: 14px;
+    }
+    .address p {
+        font-size: 14px;
+    }
+    .acount h1 {
+        letter-spacing: 5px;
+    }
+    .cart_menu li {
+        font-size: 19px;
+        margin: 0 22px;
+    }
+    .ul_border {
+        margin-top: 20px;
+    }
+    .ul_border span {
+        width: 112px;
+    }
+    .delivery label {
+        font-size: 17px;
+        margin: 9px;
+    }
+    .delivery input, .delivery select {
+        font-size: 15px;
+        padding: 6px 19px;
+    }
+    .delivery select {
+        background-size: 11px;
+        background-position: 92% 14px;
+    }
+    .order {
+        font-size: 15px;
+        padding: 10px 4%;
+        margin-top: 45px;
+    }
+    .go_back a {
+        font-size: 15px;
+    }
+    .back1 {
+        margin-top: 56px;
+    }
+    .cart_content {
+        margin-bottom: 109px;
+    }
+    .cart_img {
+        width: 75px;
+        padding: 12px 16px;
+    }
+    .log label {
+        font-size: 17px;
+        margin: 9px 0;
+    }
+    .log input[type="text"] {
+        font-size: 13px;
+    }
+    .log1 a {
+        bottom: 88px;
+    }
+    #log_pass {
+        margin-bottom: 22px;
+    }
+    .log1 {
+        width: 53%;
+    }
+    .log {
+        height: 406px;
+    }
+    .log3 p {
+        width: 49px;
+        height: 47px;
+        font-size: 20px;
+        padding-top: 8px;
+        margin: 55px 0;
+    }
+    .log4 {
+        padding: 7% 0 0;
+        height: 660px;
+    }
+    .log4 a {
+        margin: 51px 5% 10%;
+    }
+    .log4 p {
+        font-size: 17px;
+    }
+    .log4 {
+        height: 248px;
+    }
+    .per_sec h1 {
+        font-size: 2.8vw;
+    }
+    .per_sec h3 {
+        font-size: 21px;
+    }
+    .info_name{
+        display: none;
+    }
+    .pers_cont li {
+        font-size: 16px;
+    }
+    .change_cont, .change_info {
+        margin-top: 12px;
+    }
+    .save_row h4 {
+        float: none;
+    }
+    .per_sec {
+        margin-top: 3%;
+    }
+    .ord_bor {
+        width: 100%;
+    }
+    .search_prod {
+        margin: 10% auto;
+    }
+    .login h1 {
+        font-size: 40px;
+    }
+    .login h2 {
+        font-size: 20px;
+        margin-top: 5.5%;
+    }
+    .content404>a {
+        font-size: 20px;
+        letter-spacing:1px;
+    }
+    .foot404{
+        font-size: 10px;
+    }
+    .arm_img {
+        width: 20px;
+    }
+    .my_info1 input[type="text"] {
+        font-size: 13px;
+        padding: 14px ;
+    }
+    .my_info1 form p {
+        font-size: 20px;
+        margin: 15px 30px 13px;
+    }
+    .my_info1 form button {
+        font-size: 18px;
+        padding: 13px 40px;
+        margin-top: 34px;
+    }
+    .pers_cont h2:last-of-type{
+        margin-top: 60px;
+    }
+    .pers_cont h2:last-of-type ,
+    .view{
+        display: none;
+    }
+    .ord_bor1 {
+        margin-top: 66px;
+        padding-bottom: 95px;
+    }
+    .ord_bor1 {
+        width: 100%;
+    }
+    .pers_cont .col-sm-8 {
+        padding-left: 0;
+    }
+    .row_head p {
+        font-size: 2.1vw;
+    }
+    .row_mail {
+        font-size: 10px;
+        padding: 28px 0 32px;
+    }
+    .row_mail {
+        font-size: 10px;
+        padding: 24px 0 31px;
+    }
+}
+@media (min-width: 767px) and (max-width: 900px){
+    .my_order .cart_img {
+        width: 49px;
+        padding: 8px 9px;
+    }
+    .my_order .prod_tit p{
+        margin: 0;
+    }
+    .ord_bor{
+        width: 400px;
+    }
+    .prod_tit1{
+        font-size: 12px;
+    }
+}
+@media (max-width: 740px) {
+    footer .container1 {
+        width: 87%;
+    }
+    .copy p {
+        font-size: 12px;
+    }
+}
+@media (max-width: 725px) {
+    .subscription button {
+        padding: 14px 4%;
+        font-size: 18px;
+    }
+    .subscription input {
+        font-size: 16px;
+        width: 61%;
+        padding: 16px 4% 15px;
+    }
+    .obit {
+        top: -56px;
+    }
+    .description>h1 {
+        margin-bottom: 45px;
+    }
+    .prod_tit p {
+        font-size: 14px;
+    }
+    .prod_tit span {
+        font-size: 10px;
+    }
+    .cart_img {
+        width: 31%;
+        padding: 5% 6%;
+    }
+    .c_menu {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 690px) {
+    .menu ul {
+        display: none;
+    }
+
+    .hamburg {
+        display: block;
+    }
+
+    .acound {
+        top: 26%;
+        right: 44%;
+    }
+
+    .carousel {
+        height: 300px;
+    }
+
+
+    .sl_text {
+        left: -94%;
+        margin-top: -32%;
+    }
+    .sl_img2 {
+        width: 120px;
+    }
+    .sl_img1 {
+        width: 13%;
+        right: 70%;
+        top: -218px;
+    }
+    .sl_img3 {
+        width: 9%;
+        top: -220px;
+        right: 71%;
+    }
+
+    .obit h1 {
+        font-size: 27px;
+    }
+
+    .obit h2 {
+        font-size: 13px;
+        margin: 11px 0;
+    }
+    .obit p {
+        font-size: 11px;
+        width: 97%;
+    }
+    .sl_text.sl_text3 {
+        width: 63%;
+    }
+    .timer p {
+        font-size: 12px;
+        width: 50px;
+    }
+    .timer {
+        width: 182px;
+    }
+    .prod_head h1 {
+        font-size: 16px;
+    }
+    .prod .price div {
+        font-size: 12px;
+    }
+    .price {
+        width: 69%;
+    }
+    .prod_head .col-xs-9{
+        margin-left: -20px;
+    }
+    .prod_head h2 {
+        font-size: 13px;
+        width: 110%;
+    }
+    .footer_bg li {
+        width: 140%;
+    }
+   .menu_hover ul {
+        display: block;
+    }
+    .elek, .moda {
+        width: 100%;
+        z-index: 12;
+        top: 61%;
+    }
+    .prod_title {
+        font-size: 19px;
+        margin-top: 32px;
+    }
+    .prod_content .timer p {
+        width: 37px;
+        font-size: 10px;
+    }
+    .elek_content .prod_head .col-xs-9 {
+        margin-left: 0;
+    }
+    .arrow{
+        display: none;
+    }
+    .prime {
+        font-size: 13px;
+        width: 55px;
+    }
+    .prime.prime1 {
+        float: right;
+    }
+    .prod_tit1 {
+        font-size: 13px;
+        margin: 9px 0;
+    }
+    #sortable li {
+        margin-bottom: 5%;
+    }
+    .my_info1 h1 {
+        font-size: 21px;;
+    }
+}
+
+
+@media (max-width: 650px) {
+    .description ul li,
+    .description ul li > p:first-of-type {
+        height: 34px;
+    }
+
+    .description ul li > p {
+        padding-top: 9px;
+        font-size: 10px;
+    }
+
+    .description ul li > p:last-of-type {
+        padding-left: 16px;
+        width: 32%;
+    }
+
+    .description ul li > p:first-of-type {
+        width: 68%;
+    }
+
+    .description {
+        margin-top: 57px;
+    }
+
+    .acount_content h1 {
+        font-size: 8vw;
+    }
+
+    .acount_content h2 {
+        font-size: 3.5vw;
+    }
+
+    .credit > div {
+        width: 100%;
+        margin: 6% 0;
+    }
+
+    .credit {
+        padding-top: 0;
+    }
+
+    .credit_card .col-xs-6 {
+        width: 100%;
+    }
+
+    #cod {
+        width: 100px;
+    }
+    .credit_card label {
+        margin: 27px 0 15px;
+    }
+    #date_ex {
+        width: 67%;
+    }
+}
+@media (max-width: 630px) {
+    .btngroup {
+        width: 100%;
+        height: 124px;
+        margin-bottom: -16px;
+        border:none;
+        border-radius: 0;
+    }
+    .btngroup p {
+        font-size: 13px;
+        padding: 8px 0 11px;
+        border-radius: 50px;
+        border: 1px solid #35276d;
+        width: 48%;
+    }
+
+    .btn1{
+        margin-right: 4%;
+    }
+    .btn3{
+        margin:53px auto 0;
+        float: none;
+
+    }
+    .copy img {
+        width: 16px;
+    }
+    .elek,.moda{
+        top: 57%;
+    }
+    .sours {
+        font-size: 14px;
+    }
+
+}
+
+@media (max-width: 600px) {
+    .content > div > div {
+        width: 80%;
+        float: none;
+        margin: 0 auto;
+    }
+
+    .price {
+        width: 83%;
+    }
+
+    .subscription button {
+        font-size: 14px;
+    }
+
+    .subscription input {
+        padding: 13px 4% 11px;
+    }
+
+    .footer_bg {
+        padding-top: 133px;
+    }
+
+    .price_now {
+        margin-top: 22px;
+    }
+
+    .pox_prod h1 {
+        font-size: 63px;
+    }
+
+    .pox_prod p {
+        font-size: 24px;
+        margin: -42px 0 0 5px;
+    }
+
+    .product > p {
+        margin-top: -41px;
+    }
+
+    .sl_img3, .sl_img2, .sl_img1 {
+        right: 73%;
+    }
+
+    #map, .map {
+        height: 240px;
+    }
+
+    .credit_card input {
+        font-size: 12px;
+        padding: 8px 13%;
+    }
+
+    .credit_card label {
+        font-size: 14px;
+        margin: 11px 0 15px;
+    }
+
+    .user_img div {
+        width: 78px;
+        height: 78px;
+    }
+
+    .user_img > div > p {
+        width: 67px;
+        height: 67px;
+    }
+
+    .us_name p {
+        font-size: 13px;
+        width: 100%;
+    }
+
+    .us_name p i {
+        font-size: 9px;
+    }
+
+    .user_img h1 {
+        font-size: 12px;
+    }
+
+    .per_sec h1 {
+        font-size: 3.5vw;
+    }
+
+    .per_sec h3 {
+        font-size: 18px;
+    }
+
+    .sec3 p {
+        font-size: 15px;
+    }
+
+    .sec3 span {
+        font-size: 22px;
+        color: #5d528a;
+        display: block;
+        text-align: center;
+        margin-bottom: 22%;
+    }
+
+    .pers_cont h2, .my_info h1 {
+        font-size: 17px;
+    }
+
+    .log404 > span {
+        font-size: 25vw;
+    }
+
+    .log404 > div {
+        width: 16%;
+        margin:6% 10px 0;
+    }
+
+    .content404 h1 {
+        font-size: 4vw;
+        width: 70%;
+    }
+
+    @keyframes bounce {
+        0%{
+            transform: translate3d(0,0,0);
+        }
+
+        50% {
+            transform: translate3d(0, 25%, 0);
+        }
+    }
+    .my_ord h3 {
+        font-size: 25px;
+    }
+    .cont_inform form{
+        margin-top: -40px;
+    }
+    .cont_inform input {
+        padding: 14px;
+        margin: 3% 0 3.8%;
+    }
+    .cont_inform label {
+        font-size:3.5vw;
+        margin-left: 20px;
+    }
+    .cont_inform button {
+        font-size: 20px;
+        padding: 12px;
+        margin-top: 9%;
+    }
+    .cont_inform button {
+        font-size: 15px;
+        padding: 10px;
+        margin-top: 9%;
+    }
+}
+
+@media (max-width: 550px) {
+
+    .korzina {
+        right: 10%;
+        width: 336px;
+        padding: 13px 22px 32px;
+    }
+    .acound {
+        top: 29%;
+        right: 46%;
+    }
+    .arrow {
+        font-size: 12px;
+        padding: 2px 5px;
+    }
+    .left {
+        left: 18px;
+    }
+    .right {
+        right: 18px;
+    }
+    .sl_text {
+        width: 72%;
+    }
+    .sl_text a {
+        font-size: 10px;
+        width: 73px;
+    }
+    .sl-caption h2 {
+        font-size: 18px;
+        margin: 9px 0;
+    }
+    .obit {
+        top: -34px;
+    }
+    .sl-caption h2 {
+        font-size: 14px;
+        margin: 7px 0;
+    }
+    .sl-caption {
+        padding-bottom: 11px;
+        margin-bottom: 17px;
+    }
+    .sl_text a {
+        font-size: 8px;
+        width: 66px;
+    }
+    .sl_text {
+        width: 66%;
+        left: -160px;
+    }
+    .sl_img2, .sl_img1, .sl_img3 {
+        right: 75%;
+     }
+    .obit p {
+        font-size: 9px;
+        width: 97%;
+        line-height: 12px;
+    }
+    .obit {
+        padding: 15px 0 14px;
+    }
+    .product {
+        padding-top: 0;
+    }
+    .subscription {
+        margin-top: 46px;
+    }
+    .soc p:last-of-type {
+        margin-left: 10px;
+    }
+    .footer_bg a {
+        font-size: 11px;
+    }
+    .footer_bg li {
+        margin-bottom: 3px;
+    }
+    .soc p {
+        padding: 2px 9px;
+    }
+    .soc p:last-of-type {
+        padding: 2px 6px;
+    }
+    .copy p {
+        font-size: 9px;
+    }
+    .prod_content form button {
+        font-size: 14px;
+    }
+    .sours {
+        font-size: 12px;
+    }
+    .sistem {
+        font-size: 13px;
+        margin-top: 50px;
+        height: 41px;
+    }
+    .sistem p:last-of-type,
+    .sistem p:first-of-type {
+        padding-top: 10px;
+    }
+    .reg1,.address{
+        width:96%;
+        margin:0 auto;
+        float: none;
+    }
+    .reg form button {
+        padding: 13px 19px;
+        margin: 25px 0 26px 22px;
+    }
+    .soc.soc2 {
+        float: none;
+    }
+    .contact_as h1{
+        font-size: 6vw;
+    }
+    .acount_content form>div{
+        float: none;
+        width: 100%;
+    }
+    .acount_content button {
+        font-size: 21px;
+    }
+    .prod_tit {
+        padding-top: 5px;
+        margin-left: 0;
+    }
+    .change {
+        width: 40px;
+        height: 23px;
+    }
+    .change input {
+        font-size: 11px;
+        width: 13px;
+    }
+    .change span {
+        font-size: 7px;
+    }
+    .cart_img {
+        width: 34%;
+    }
+    .ul_border span {
+        width: 29%;
+    }
+    .cart_menu li {
+        font-size: 4vw;
+        margin: 0 4%;
+    }
+    .sec3 span img {
+        width: 24px;
+    }
+    .my_avatar {
+         width: 95px;
+         height: 95px;
+     }
+    .my_avatar p {
+         width: 85px;
+         height: 85px;
+     }
+    .my_info h1 {
+        margin-bottom: 25px;
+    }
+    .pers_cont .change_img {
+        font-size: 17px;
+    }
+    .my_info form p {
+        font-size: 17px;
+        margin: 16px 17px 9px;
+    }
+    .my_info input[type="text"] {
+        padding: 9px 26px;
+    }
+    .my_info form button {
+        font-size: 16px;
+        padding: 8px 22px;
+        margin-top: 17px;
+    }
+    .per_sec .redakt {
+        font-size: 10px;
+    }
+    .redakt .open_cont {
+        width: 18px;
+    }
+    .per_sec h3 {
+         font-size: 15PX;
+     }
+
+    .postuplenie1 .ord_bor .prod_tit {
+          padding-top: 0;
+      }
+    .sidebar h3 {
+        margin: 21px 0 21px;
+    }
+    .login h1 {
+        font-size: 7vw;
+    }
+    .login h2 {
+        font-size: 3.5vw;
+    }
+    .foot404 .col-xs-6{
+        float: none;
+        width:100%;
+    }
+    .container2{
+        width:85%;
+    }
+    .foot404 .col-xs-6 p{
+        text-align: left;
+    }
+
+}
+@media (max-width: 500px) {
+    .menu_hover h3 {
+        font-size: 12px;
+    }
+    .bor_l{
+        display: none;
+    }
+    .elek_hover>div{
+        width:100%;
+    }
+    .sl_text3 .sl-caption h2 {
+        font-size: 2vw;
+    }
+    .search {
+        top: 29%;
+    }
+    .acound {
+        top: 29%;
+        left: 9%;
+    }
+    .obit h1 {
+        font-size: 4vw;
+    }
+    .obit h2 {
+        font-size: 2.5vw;
+    }
+    .btngroup p {
+        font-size: 11px;
+        padding: 8px 0 10px;
+    }
+    .menu_hover h3 {
+        margin-bottom: -10px;
+    }
+    .menu_hover>div:first-of-type {
+        width: 95%;
+    }
+    .moda .menu_hover li ,
+    .elek .menu_hover li ,
+    .menu_hover h3{
+        text-align: center;
+    }
+    .prod_title span{
+    display: block;
+    margin-bottom: 11px;
+}
+    .pr_img2 {
+        width: 72%;
+    }
+    .pr_img3 {
+        padding-top: 7%;
+    }
+    .elek_content #sortable li {
+        width: 90%;
+        margin: 0 auto;
+    }
+    .sl_img1 {
+        width: 11%;
+        right: 78%;
+        top: -200px;
+    }
+    .sl_img2 {
+        right: 78%;
+    }
+    .sl_img3 {
+        width: 8%;
+        right: 79%;
+        top: -190px;
+    }
+    .sl-caption h2 {
+        font-size: 11px;
+    }
+    .sl_text {
+        width: 100%;
+        left: -119px;
+    }
+    #sortable li{
+        width:80%;
+        left: 14%;
+    }
+    .soc h3{
+        margin-top: 7px;
+    }
+    .soc,.soc1{
+        width: 35%;
+        float: right;
+    }
+    .acount p a {
+        font-size: 3.5vw;
+    }
+    .delivery .col-xs-6{
+        width:100%;
+    }
+    .delivery label {
+        font-size: 14px;
+        margin: 7px;
+    }
+    .order {
+        font-size: 12px;
+    }
+    .login_content h1 {
+        font-size: 25px;
+        margin: 26px 0;
+    }
+    .log2 span {
+        font-size: 13px;
+    }
+    .log2 span:empty {
+        height: 43px;
+        margin: 23px auto;
+    }
+    .log3 p {
+        width: 38px;
+        height: 37px;
+        font-size: 16px;
+        margin: 42px 0;
+    }
+    .log4 a {
+        font-size: 9px;
+        width: 103px;
+    }
+    .log1 button {
+        font-size: 13px;
+        padding: 5px 10%;
+    }
+    .log1 a {
+        bottom: 78px;
+    }
+    .log4 p {
+        font-size: 14px;
+    }
+    .log {
+        height: 353px;
+    }
+    .c_menu {
+        font-size: 13px;
+        padding: 48px 0 0;
+    }
+    #date_ex {
+        width: 136px;
+    }
+    .per_sec h1 {
+        font-size: 4.8vw;
+    }
+    .login .col-xs-6{
+        width:90%;
+        margin: 0 auto;
+        float: none;
+    }
+    .login form {
+        margin-top: 31px;
+    }
+    .login button {
+        font-size: 21px;
+        width: 83%;
+        padding: 13px;
+        margin: 40px auto 0;
+    }
+    .content404>a {
+        font-size: 16px;
+   }
+}
+@media (max-width: 470px) {
+    .subscription input {
+        font-size: 14px;
+        width: 55%;
+        padding: 8px 4% 8px;
+    }
+    .subscription button {
+        padding: 11px 4%;
+        font-size: 10px;
+    }
+
+    .description>h1 {
+        margin-bottom:30px;
+    }
+    .pox_prod h1 {
+        font-size: 50px;
+    }
+    .pox_prod p {
+        font-size: 18px;
+        margin: -31px 0 0 5px;
+    }
+    .change_img span {
+        font-size: 14px;
+    }
+    .my_avatar p {
+        width: 65px;
+        height: 65px;
+    }
+    .my_avatar  {
+        width: 75px;
+        height: 75px;
+    }
+    .pers_cont .change_img {
+        margin: 25px 0 0 7px;
+    }
+    .pers_cont h2, .my_info h1 {
+        font-size: 14px;
+    }
+    .pers_ar .container1{
+        width:95%;
+    }
+    .per_sec .redakt {
+         right: 0;
+     }
+
+}
+@media (max-width: 450px) {
+    .cab p {
+        font-size: 11px;
+    }
+    .cab span {
+        margin: 0 4px;
+        font-size: 11px;
+    }
+    .shop_cart span {
+        font-size: 9px;
+        padding: 1px 2px;
+        right: 12%;
+    }
+    .cab > div:first-of-type {
+        width: 266px;
+    }
+    .logo {
+        margin: 34px auto 0;
+    }
+    .cab {
+        margin-top: 37px;
+        padding-bottom: 22px;
+    }
+    .search {
+        top: 170px;
+    }
+    .korzina {
+        right: 0;
+        left: 0;
+        width: 92%;
+        margin: 0 auto;
+        padding: 13px 13px 32px;
+    }
+    .korzina h5 {
+        font-size: 12px;
+    }
+    .acound {
+        top:170px;
+        left: 66px;
+    }
+    .acound p {
+        font-size: 14px;
+        padding-bottom: 9px;
+    }
+   .btngroup .btn3{
+        width:70%;
+    }
+    .content>div>div{
+        width:90%;
+    }
+    .subscription {
+        padding: 5px 0 21px;
+    }
+    .subscription h1 {
+        margin-bottom: 19px;
+    }
+    footer {
+        margin-top: -58px;
+    }
+    .footer_bg {
+        padding-top: 77px;
+    }
+    .elek,.moda {
+        top: 48%;
+    }
+    .prod_content form button {
+        font-size: 12px;
+    }
+    .description ul li, .description ul li>p:first-of-type {
+        height: 42px;
+    }
+    .description ul li>p:first-of-type{
+        width: 58%;
+    }
+    .description ul li>p:last-of-type{
+        width: 42%;
+    }
+    .sistem  {
+        width:100%;
+    }
+    .pox_prod1>div {
+        width: 49px;
+        height: 56px;
+        padding: 8px 10px;
+        margin-right: 6px;
+    }
+    .sl_text {
+        left: -150px;
+    }
+    .sl_img1, .sl_img2, .sl_img3 {
+           right: 81%;
+       }
+    .product>p {
+        margin-top: -31px;
+    }
+    .product > p a {
+        font-size: 4vw;
+    }
+     .go_back a {
+        font-size: 14px;
+    }
+    .back1 {
+        margin-top: 50px;
+    }
+    .prime {
+        font-size: 10px;
+        width: 46px;
+    }
+    .prime span {
+        font-size: 8px;
+    }
+    .del_prod {
+        font-size: 9px;
+        width: 15px;
+        float: right;
+        margin-right: -9px;
+    }
+    .cab_rigth {
+        width: 278px;
+    }
+    .cab p, .cab p a ,.cab .user_name {
+        font-size: 11px;
+    }
+    .user_img h1{
+        display: none;
+    }
+    .user_img,.us_name{
+        width:100%;
+    }
+    .user_img div{
+        float: left;
+    }
+    .us_name h2 {
+        font-size: 12px;
+    }
+    .pers_cont li {
+        font-size: 14px;
+        margin-top: 4px;
+    }
+    .sec3 p {
+        font-size: 12px;
+    }
+    .my_header .user_img{
+        width: 33%;
+    }
+    .my_header h1 {
+        font-size: 4.3vw;
+    }
+    .header1 .acoun {
+        margin-left: -12%;
+    }
+    .content404 h1{
+        margin-top: 10%;
+    }
+    .foot404 {
+        margin-top: 22%;
+    }
+    .my_info1 h1 {
+        font-size: 4.3vw;
+    }
+    .my_info1 form p {
+        margin: 15px 18px 13px;
+    }
+    .cont_inform button {
+        font-size: 11px;
+    }
+    .message  .col-xs-8{
+        width:85%;
+    }
+    .postuplenie1 li span {
+        font-size: 17px;
+    }
+    .postuplenie1 li img {
+        width: 20px;
+    }
+    .postuplenie1 .cart_menu li {
+        font-size: 11px;
+    }
+    .postuplenie1 ul {
+        margin-top: -48px;
+    }
+    .postuplenie1{
+        margin-top: 15%;
+    }
+    .postuplenie1 .pagination {
+        margin: 78px 17px 0;
+    }
+    .per_sec p:empty {
+        margin-top: 6%;
+    }
+   .pagination ul li a,
+   .pagination ul li a i{
+        font-size: 11px;
+    }
+    .row_head {
+        padding: 13px 0 60px;
+    }
+    .row_head p {
+        font-size: 3vw;
+    }
+}
+
+@media (max-width:420px) {
+    .go_back a {
+        font-size: 3.6vw;
+    }
+    .order {
+        font-size: 2.5vw;
+    }
+    .my_info input[type="text"]::placeholder {
+        font-size: 14px;
+    }
+    .acount h1 {
+        letter-spacing: 0;
+    }
+}
+@media (max-width:400px) {
+    .obit,
+    .emp{
+        display: none;
+    }
+    .btngroup p,
+    .btngroup  .btn3{
+        width: 88%;
+        float: none;
+        margin:10px auto;
+    }
+    .product>p {
+        margin-bottom: 20px;
+    }
+    .btngroup {
+        height: 152px;
+    }
+    .content .container1 {
+        width: 93%;
+    }
+
+    .elek,.moda {
+        top: 46%;
+    }
+    .copy p{
+        text-align: left;
+    }
+    .copy>div>div{
+        float: none;
+        width:100%;
+    }
+    .sistem {
+        font-size: 11px;
+    }
+    .sl_img1, .sl_img2, .sl_img3 {
+        right: 83%;
+    }
+    .carousel{
+        height:250px;
+    }
+    .sl_img1 {
+        top: -230px;
+        width: 9%;
+    }
+    .sl_img2 {
+        top: -300px;
+    }
+    .sl_img3 {
+        top: -240px;
+        width: 7%;
+    }
+    .sl_text {
+        margin-top: -74%;
+    }
+    .acount_content button {
+        font-size: 19px;
+        padding: 13px 0;
+    }
+
+    .my_avatar p {
+        width: 50px;
+        height: 50px;
+    }
+    .my_avatar {
+        width: 60px;
+        height: 60px;
+    }
+    .pers_cont .change_img {
+        font-size: 13px;
+        margin-top: 21px;
+    }
+    .per_sec .redakt {
+        font-size: 8px;
+    }
+    .redakt .open_cont {
+        width: 16px;
+    }
+    .per_sec h3 {
+         font-size: 11px;
+     }
+    .infor .redakt {
+        top: 53px;
+    }
+    .save_row p {
+        font-size: 10px;
+    }
+    .save_row h4 {
+        font-size: 9px;
+    }
+    .save_row h5 {
+        font-size: 9px;
+    }
+    .login label {
+        font-size: 17px;
+    }
+    .login input {
+        margin: 6px auto;
+    }
+    .content404 h3 {
+        font-size: 10px;
+    }
+}
+@media (max-width: 360px) {
+    .cab p i {
+        margin-right: 0;
+    }
+    .shop_cart span {
+        right: 8%;
+    }
+    .cab>div:first-of-type {
+        width: 242px;
+    }
+    .subscription input {
+        font-size: 11px;
+    }
+    .description ul li>p:last-of-type {
+        padding-left: 5px;
+    }
+    .pox_prod h1 {
+        font-size: 35px;
+    }
+    .pox_prod p {
+        font-size: 15px;
+        margin: -24px 0 0 5px;
+    }
+    .share{
+            width:100%;
+        }
+    .share p {
+        width: 45%;
+    }
+    .calendar{
+        float: left;
+    }
+
+    .sidebar a,
+    .sidebar label,
+    .sidebar p {
+        font-size: 13px;
+    }
+    .sl_img1,
+    .sl_img2,
+    .sl_img3{
+        right:85%;
+    }
+    .sl_img1 {
+        top: -230px;
+        width: 7%;
+    }
+    .sl_img2 {
+        top: -300px;
+        width: 90px;
+    }
+    .sl_img3 {
+        top: -240px;
+        width: 5%;
+    }
+    .sl_text a {
+        font-size: 6px;
+        width: 55px;
+        padding: 3px 0;
+    }
+    .carousel{
+        height: 210px;
+    }
+    .sl_text {
+        margin-top: -76%;
+    }
+    .sistem {
+        height: 33px;
+        font-size: 10px;
+    }
+    .sistem p:last-of-type,
+    .sistem p:first-of-type {
+        padding-top: 7px;
+    }
+    .prod_tit1 {
+        font-size: 11px;
+    }
+    .prime.prime1 {
+        margin: 10px 10% 0 0;
+    }
+    .prime {
+        font-size: 10px;
+    }
+    .prod_tit p {
+        font-size: 12px;
+        margin-bottom: -5px;
+    }
+    .cab_rigth {
+        width: 248px;
+    }
+    .c_menu {
+        font-size: 11px;
+    }
+   .login_content .container1 {
+        width: 90%;
+    }
+    .per_sec h1 {
+        font-size: 4.5vw;
+    }
+    .per_sec h3 {
+        margin-top: 0;
+    }
+    .change_cont, .change_info {
+        font-size: 13px;
+    }
+    .cont_info-addr span,
+    .change_cont span,
+    .change_info span {
+        font-size: 14px;
+        margin-right: 8px;
+    }
+    .sec3 span {
+        font-size: 17px;
+    }
+    .sec3 p {
+        font-size: 10px;
+    }
+    .header1 .container1{
+        width: 95%;
+    }
+    .header1 .acoun {
+        margin-left: -13%;
+    }
+    .content404>a {
+        font-size: 12px;
+    }
+}
+
+
+@media (width: 1024px) and (height: 1366px){
+    .menu404 ul {
+        padding-top: 124px;
+        width: 800px;
+    }
+    .menu404 ul li a {
+        font-size: 23px;
+    }
+    .log404 {
+        margin-top: 10%;
+    }
+    .content404 h1 {
+        font-size: 2.6vw;
+        width: 52%;
+        margin-top: 50px;
+    }
+    .content404 h3 {
+        font-size: 16px;
+        margin: 90px auto 115px;
+    }
+    .foot404 {
+        margin-top: 21%;
+    }
+}
+@media (width: 768px) and (height: 1024px){
+    .foot404 {
+        margin-top: 17%;
+    }
+}
+@media (width: 1280px) and (height: 800px){
+    .foot404 {
+        margin-top: 4%;
+    }
+}
